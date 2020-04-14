@@ -4,8 +4,8 @@
 # 本项目涵盖的软件
 
 1. 操作系统
-    - Windows 服务器和桌面
-    - Linux 发行版 服务器和桌面
+    - [Windows 服务器和桌面](operating-systems/Windows.md)
+    - [Linux 发行版 服务器和桌面](operating-systems/Linux.md)
     - macOS 桌面
     - iOS 和 iPadOS
 
