@@ -11,7 +11,7 @@
 
 2. 重要编程语言运行时
     - Python
-    - JDK
+    - Java
     - PHP
     - .NET Framework
 
