@@ -11,6 +11,7 @@
 
 2. 重要编程语言运行时
     - Python
+    - [Golang](runtime/golang.md)
     - [Java](runtime/Java.md)
     - PHP
     - .NET Framework
