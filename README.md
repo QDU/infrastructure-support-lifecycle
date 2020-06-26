@@ -27,6 +27,9 @@
     - Red Hat JBoss EAP
     - ASP.NET
 
+5. 虚拟化和容器运行时
+    - [VMware](virtualization-container/VMware.md)
+
 # 版本支持周期
 
 信息化部门根据学校实际环境和需求，可以针对不同类型软件选择不同的版本支持周期方案。
