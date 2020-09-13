@@ -1,6 +1,6 @@
 # Microsoft SQL Server 关系型数据库
 
-官方：[产品生命周期 SQL Server（中文）](https://support.microsoft.com/zh-cn/lifecycle/search?alpha=SQL%20Server)
+官方：[产品生命周期 SQL Server（中文）](https://support.microsoft.com/zh-cn/lifecycle/search/1044)
 
 |已发布产品|生命周期开始日期|主流支持结束日期|扩展支持结束日期|
 |---|---|---|---|
