@@ -1,6 +1,6 @@
 # Windows 服务器（固定支持周期）
 
-更新日期：2021 年 5 月 15 日
+更新日期：2021 年 6 月 29 日
 
 产品生命周期：https://support.microsoft.com/zh-cn/lifecycle/search/1163
 
@@ -15,11 +15,24 @@
 |Windows 2000 Server|5.0.2195|2005-6-30|2010-7-13|
 |Windows NT 4.0 Server|4.0.1381|2002-12-31|2004-12-31|
 
+## 建议的版本策略 —— Windows 服务器
+新项目使用最新长期支持版 Windows 服务器。
+主流支持即将结束（少于一年）的版本，考虑迁移或原地升级。
+主流支持结束的版本禁止在新安装中使用，存量系统立即迁移，不推荐多次跨大版本升级。
+
+如果确定升级，请参考：《Windows Server 安装和升级》：https://docs.microsoft.com/zh-cn/windows-server/get-started/installation-and-upgrade
+
 # Windows 桌面
+
+## 建议的版本策略 —— Windows 桌面
+使用最新版本。
+可以从系统内原地升级或全新安装。
 
 ## Windows 10 半年更新频道（现代支持周期）
 
 生命周期常见问题解答 - Windows：https://docs.microsoft.com/zh-cn/lifecycle/faq/windows
+Windows 10 家庭版和专业版生命周期：https://docs.microsoft.com/zh-cn/lifecycle/products/windows-10-home-and-pro
+Windows 10 企业版和教育版生命周期：https://docs.microsoft.com/zh-cn/lifecycle/products/windows-10-enterprise-and-education
 
 ### Windows 10 企业版和教育版
 
@@ -28,6 +41,7 @@
 
 |版本|内核版本|首发日期|支持结束日期|
 |---|---|---|---|
+|21H1|10.0.19043|2021-05-18|2022-12-13|
 |20H2|10.0.19042|2020-10-20|2023-05-09|
 |2004|10.0.19041|2020-05-27|2021-12-14|
 |1909|10.0.18363|2019-11-12|2022-05-10|
@@ -47,6 +61,7 @@
 
 |版本|内核版本|首发日期|支持结束日期|
 |---|---|---|---|
+|21H1|10.0.19043|2021-05-18|2022-12-13|
 |20H2|10.0.19042|2020-10-20|2022-05-10|
 |2004|10.0.19041|2020-05-27|2021-12-14|
 |**下列版本支持已结束**|-|-|-|
