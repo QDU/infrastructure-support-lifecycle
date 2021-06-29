@@ -16,23 +16,23 @@
 |Windows NT 4.0 Server|4.0.1381|2002-12-31|2004-12-31|
 
 ## 建议的版本策略 —— Windows 服务器
-新项目使用最新长期支持版 Windows 服务器。
-主流支持即将结束（少于一年）的版本，考虑迁移或原地升级。
-主流支持结束的版本禁止在新安装中使用，存量系统立即迁移，不推荐多次跨大版本升级。
+* 新项目使用最新长期支持版 Windows 服务器。
+* 主流支持即将结束（少于一年）的版本，考虑迁移或原地升级。
+* 主流支持结束的版本禁止在新安装中使用，存量系统立即迁移，不推荐多次跨大版本升级。
 
 如果确定升级，请参考：《Windows Server 安装和升级》：https://docs.microsoft.com/zh-cn/windows-server/get-started/installation-and-upgrade
 
 # Windows 桌面
 
 ## 建议的版本策略 —— Windows 桌面
-使用最新版本。
-可以从系统内原地升级或全新安装。
+* 使用最新版本。
+* 可以从系统内原地升级或全新安装。
 
 ## Windows 10 半年更新频道（现代支持周期）
 
-生命周期常见问题解答 - Windows：https://docs.microsoft.com/zh-cn/lifecycle/faq/windows
-Windows 10 家庭版和专业版生命周期：https://docs.microsoft.com/zh-cn/lifecycle/products/windows-10-home-and-pro
-Windows 10 企业版和教育版生命周期：https://docs.microsoft.com/zh-cn/lifecycle/products/windows-10-enterprise-and-education
+* 生命周期常见问题解答 - Windows：https://docs.microsoft.com/zh-cn/lifecycle/faq/windows
+* Windows 10 家庭版和专业版生命周期：https://docs.microsoft.com/zh-cn/lifecycle/products/windows-10-home-and-pro
+* Windows 10 企业版和教育版生命周期：https://docs.microsoft.com/zh-cn/lifecycle/products/windows-10-enterprise-and-education
 
 ### Windows 10 企业版和教育版
 
