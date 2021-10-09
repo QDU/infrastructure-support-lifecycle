@@ -2,10 +2,13 @@
 
 更新日期：2021 年 6 月 29 日
 
-产品生命周期：https://support.microsoft.com/zh-cn/lifecycle/search/1163
+产品生命周期：
+1. https://docs.microsoft.com/zh-cn/lifecycle/products/windows-server-2022
+1. https://docs.microsoft.com/zh-cn/lifecycle/products/windows-server-2019
 
 |版本|内核版本|主流支持结束|扩展支持结束|
 |---|---|---|---|
+|Windows Server 2022|10.0.20348|2026-10-13|2031-10-14|
 |Windows Server 2019|10.0.17763|2024-1-9|2029-1-9|
 |Windows Server 2016|10.0.14393|2022-1-11|2027-1-12|
 |Windows Server 2012/R2|6.3.9600|2018-10-9|2023-10-10|

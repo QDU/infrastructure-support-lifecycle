@@ -1,5 +1,5 @@
 # VMware 部分产品支持情况
-来源：[VMware 产品生命周期矩阵（英文）](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/support/product-lifecycle-matrix.pdf)
+来源：[VMware 产品生命周期（英文）](https://lifecycle.vmware.com/#/)
 
 |产品版本|GA 日期|一般支持结束|技术指导结束|生命周期策略|
 |---|---|---|---|---|
@@ -25,6 +25,7 @@
 |vSAN 6.0, 6.1 and 6.2|2015/03/12|2020/03/12|2022/03/12|EIP|
 |vSAN 6.5, 6.6|2016/11/15|2021/11/15|2023/11/15|EIP|
 |vSAN 6.7|2018/04/17|2022/10/15|2023/11/15|EIP|
+|vSAN 7.0|2020/04/02|2025/04/02|2027/04/02|EIP|
 
 ## 生命周期策略
 - **APP** - Application Platform Policy 应用程序平台策略
